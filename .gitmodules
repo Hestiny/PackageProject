@@ -4,3 +4,6 @@
 [submodule "Packages/com.norlo.exceltoarray"]
 	path = Packages/com.norlo.exceltoarray
 	url = https://github.com/Hestiny/ExcelToArray.git
+[submodule "Packages/com.norlo.npoinuget"]
+	path = Packages/com.norlo.npoinuget
+	url = https://github.com/Hestiny/NPOINuget.git

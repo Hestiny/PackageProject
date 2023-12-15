@@ -12,6 +12,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.norlo.npoinuget": {
+      "version": "file:com.norlo.npoinuget",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.asset-store-validation": {
       "version": "0.1.3",
       "depth": 1,
