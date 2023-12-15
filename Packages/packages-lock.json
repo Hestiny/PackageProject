@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.norlo.exceltoarray": {
+      "version": "file:com.norlo.exceltoarray",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.norlo.exceltocs": {
       "version": "file:com.norlo.exceltocs",
       "depth": 0,
