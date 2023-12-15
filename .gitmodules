@@ -1,0 +1,3 @@
+[submodule "Packages/com.norlo.exceltocs"]
+	path = Packages/com.norlo.exceltocs
+	url = git@github.com:Hestiny/ExcelToCS.git
