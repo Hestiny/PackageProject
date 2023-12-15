@@ -4,13 +4,17 @@
       "version": "file:com.norlo.exceltoarray",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.norlo.npoinuget": "https://github.com/Hestiny/NPOINuget.git#0.1.0"
+      }
     },
     "com.norlo.exceltocs": {
       "version": "file:com.norlo.exceltocs",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.norlo.npoinuget": "https://github.com/Hestiny/NPOINuget.git#0.1.0"
+      }
     },
     "com.norlo.npoinuget": {
       "version": "file:com.norlo.npoinuget",
