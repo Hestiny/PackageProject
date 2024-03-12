@@ -1,4 +1,7 @@
-namespace TableDataConfig{	
+
+namespace TableDataConfig
+{
+	
 	public enum PropType
 	{
 		///金币
@@ -6,4 +9,5 @@
 		///钻石
 		ruby = 1,
 	}
-}
+
+}
